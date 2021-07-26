@@ -1,0 +1,10 @@
+C:\Users\anton\Documents\Mines\Mines\bin\Debug\Mines.exe.config
+C:\Users\anton\Documents\Mines\Mines\bin\Debug\Mines.exe
+C:\Users\anton\Documents\Mines\Mines\bin\Debug\Mines.pdb
+C:\Users\anton\Documents\Mines\Mines\obj\Debug\Mines.Game.resources
+C:\Users\anton\Documents\Mines\Mines\obj\Debug\Mines.Properties.Resources.resources
+C:\Users\anton\Documents\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.cache
+C:\Users\anton\Documents\Mines\Mines\obj\Debug\Mines.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\Mines\Mines\obj\Debug\Mines.exe
+C:\Users\anton\Documents\Mines\Mines\obj\Debug\Mines.pdb
+C:\Users\anton\Documents\Mines\Mines\obj\Debug\Mines.csprojAssemblyReference.cache
